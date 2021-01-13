@@ -1,0 +1,3 @@
+Resources:
+1. Exception handling: https://docs.python.org/3/tutorial/errors.html
+2. 
